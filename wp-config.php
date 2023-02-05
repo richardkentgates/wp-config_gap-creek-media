@@ -8,4 +8,10 @@ define('DISALLOW_FILE_MODS', TRUE );
 
 /* Section C */
 
-define('WP_MEMORY_LIMIT', '128M');
+define('WP_MEMORY_LIMIT', **** );
+
+/* Section D */
+
+define('FS_CHMOD_DIR', **** );
+
+define('FS_CHMOD_FILE', **** );
