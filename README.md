@@ -8,12 +8,8 @@ Difining this as TRUE disables the ability to edit PHP files from within the Wor
 
 ## Section B
 
-Defining This to TRUE disables the ability to install or remove plugins and themes. _Plugins and themes are to be managed by your website adminstrator._
-
-## Section C
-
 Defining this allows us to manage how much memory is allocated for use with WordPress.
 
-## Section D
+## Section C
 
 Defining this sets the permissions for files and directories managed by WordPress
